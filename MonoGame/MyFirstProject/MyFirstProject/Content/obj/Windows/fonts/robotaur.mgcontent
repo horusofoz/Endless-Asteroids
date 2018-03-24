@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/fonts/robotaur.spritefont</SourceFile>
+  <SourceTime>2018-02-27T17:52:05.2507232+10:30</SourceTime>
+  <DestFile>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/bin/Windows/fonts/robotaur.xnb</DestFile>
+  <DestTime>2018-03-20T07:50:19.7865766+10:30</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-02T01:35:36+10:30</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-02T01:35:36+10:30</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

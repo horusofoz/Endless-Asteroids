@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/sounds/missonFail.wav</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/sounds/missonComplete.wav</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/sounds/backgroundMusic.ogg</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/sounds/laser.ogg</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/images/bullet.png</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/sounds/explosion.ogg</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/images/rock.png</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/images/ship.png</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/backgrounds/spaceBack.png</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/backgrounds/failBack.png</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/images/beam.png</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/images/explosion.png</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/backgrounds/splashBack.png</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/titles/missionComplete.png</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/titles/missionFailed.png</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/titles/missionOrders.png</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/fonts/robotaur.spritefont</File>
+    <File>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/fonts/robotaurSmall.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

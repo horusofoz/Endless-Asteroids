@@ -1,0 +1,105 @@
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\titles\missionComplete.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\titles\missionFailed.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\titles\missionOrders.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\fonts\robotaur.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\fonts\robotaurSmall.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\images\beam.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\images\bullet.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\images\explosion.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\images\rock.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\images\ship.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\backgroundMusic.wma
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\backgroundMusic.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\explosion.wma
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\explosion.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\laser.wma
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\laser.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\missonComplete.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\missonFail.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\backgrounds\failBack.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\backgrounds\spaceBack.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\backgrounds\splashBack.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\explosion.wma
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\failBack.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\laser.wma
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\levelFail.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\mission.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\rock.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\ship.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\spaceBack.xnb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\MyFirstProject.exe
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\MyFirstProject.pdb
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\obj\x86\Release\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\obj\x86\Release\MyFirstProject.exe
+C:\Users\s181122\Downloads\JeffProjects\MonoGame\MyFirstProject\MyFirstProject\obj\x86\Release\MyFirstProject.pdb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\explosion.wma
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\laser.wma
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\explosion.wma
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\failBack.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\laser.wma
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\levelFail.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\mission.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\rock.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\ship.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\spaceBack.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\titles\missionComplete.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\titles\missionFailed.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\titles\missionOrders.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\backgroundMusic.wma
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\backgroundMusic.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\explosion.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\laser.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\missonComplete.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\sounds\missonFail.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\images\beam.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\images\bullet.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\images\explosion.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\images\rock.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\images\ship.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\fonts\robotaur.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\fonts\robotaurSmall.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\backgrounds\failBack.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\backgrounds\spaceBack.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\Content\backgrounds\splashBack.xnb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\MyFirstProject.exe
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\MyFirstProject.pdb
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\MonoGame.Framework.dll
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.dll
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.DXGI.dll
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.XInput.dll
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\MonoGame.Framework.xml
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.xml
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.DXGI.xml
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.XInput.xml
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\obj\x86\Release\MyFirstProject.csprojResolveAssemblyReference.cache
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\obj\x86\Release\MyFirstProject.csproj.CoreCompileInputs.cache
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\obj\x86\Release\MyFirstProject.exe
+H:\MonoGame\Endless Asteroids\MonoGame\MyFirstProject\MyFirstProject\obj\x86\Release\MyFirstProject.pdb

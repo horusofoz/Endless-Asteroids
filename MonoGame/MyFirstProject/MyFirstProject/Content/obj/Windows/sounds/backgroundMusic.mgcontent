@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/sounds/backgroundMusic.ogg</SourceFile>
+  <SourceTime>2018-02-27T17:49:41.1105662+10:30</SourceTime>
+  <DestFile>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/bin/Windows/sounds/backgroundMusic.xnb</DestFile>
+  <DestTime>2018-03-20T07:50:18.8875771+10:30</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2017-03-02T01:35:36+10:30</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-02T01:35:36+10:30</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>H:/MonoGame/Endless Asteroids/MonoGame/MyFirstProject/MyFirstProject/Content/bin/Windows/sounds/backgroundMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
